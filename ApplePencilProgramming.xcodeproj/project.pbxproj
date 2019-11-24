@@ -13,6 +13,7 @@
 		F09012A4238AEF460023AAE6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F09012A2238AEF460023AAE6 /* Main.storyboard */; };
 		F09012A6238AEF470023AAE6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F09012A5238AEF470023AAE6 /* Assets.xcassets */; };
 		F09012A9238AEF470023AAE6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F09012A7238AEF470023AAE6 /* LaunchScreen.storyboard */; };
+		F09012B1238AEF550023AAE6 /* DrawBoardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F09012B0238AEF550023AAE6 /* DrawBoardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F09012A5238AEF470023AAE6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F09012A8238AEF470023AAE6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F09012AA238AEF470023AAE6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F09012B0238AEF550023AAE6 /* DrawBoardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawBoardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F090129C238AEF460023AAE6 /* AppDelegate.swift */,
 				F090129E238AEF460023AAE6 /* SceneDelegate.swift */,
 				F09012A0238AEF460023AAE6 /* ViewController.swift */,
+				F09012B0238AEF550023AAE6 /* DrawBoardView.swift */,
 				F09012A2238AEF460023AAE6 /* Main.storyboard */,
 				F09012A5238AEF470023AAE6 /* Assets.xcassets */,
 				F09012A7238AEF470023AAE6 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				F09012A1238AEF460023AAE6 /* ViewController.swift in Sources */,
 				F090129D238AEF460023AAE6 /* AppDelegate.swift in Sources */,
 				F090129F238AEF460023AAE6 /* SceneDelegate.swift in Sources */,
+				F09012B1238AEF550023AAE6 /* DrawBoardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
